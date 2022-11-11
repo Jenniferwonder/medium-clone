@@ -11,7 +11,7 @@ export default {
 			title: "Approved",
 			name: "approved",
 			type: "boolean",
-			decription: "Comments won't show on the site without approval",
+			description: "Comments won't show on the site without approval",
 		},
 		{
 			name: "email",
